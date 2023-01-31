@@ -1,0 +1,1 @@
+To use the bot, you need to install all the necessary libraries from the requirement.txt. Instead of "TOKEN", you need to insert the existing token of your bot, which was returned to you by BotFather.
