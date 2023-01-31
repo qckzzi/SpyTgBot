@@ -5,7 +5,7 @@ import cv2
 import numpy as np
 import moviepy.editor as moviepy
 
-bot = telebot.TeleBot("5891714767:AAG_jhxzEzje_Bstq9nd-xDcjOc7B2n65Uo")
+bot = telebot.TeleBot("TOKEN")
 print("Запуск бота...")
 
 
