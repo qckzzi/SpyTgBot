@@ -14,8 +14,10 @@ This bot has only 2 commands: send a screenshot or screen recording lasting 5 se
 
 **Video recording:**
 
-![image](https://github.com/qckzzi/SpyTgBot/blob/main/SpyVideo.gif)
+<img src="https://github.com/qckzzi/SpyTgBot/blob/main/SpyVideo.gif" width="360" height="640"/>
 
 **Reply to unknown message:**
 
-![image](https://github.com/qckzzi/SpyTgBot/blob/main/SpyAnswer.gif)
+
+<img src="https://github.com/qckzzi/SpyTgBot/blob/main/SpyAnswer.gif" width="360" height="640"/>
+
