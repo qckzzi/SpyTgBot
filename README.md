@@ -10,7 +10,7 @@ This bot has only 2 commands: send a screenshot or screen recording lasting 5 se
 
 **Screenshot:**
 
-<img src="https://github.com/qckzzi/SpyTgBot/blob/main/SpyScreen.gif" width="100" height="100"/>
+<img src="https://github.com/qckzzi/SpyTgBot/blob/main/SpyScreen.gif" width="360" height="640"/>
 
 **Video recording:**
 
